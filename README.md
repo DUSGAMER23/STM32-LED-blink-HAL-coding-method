@@ -31,10 +31,6 @@ STM32-LED-blink-HAL-coding-method/
 
 ````
 
-> The build output folders (Debug/Release) are intentionally excluded. This keeps the repo clean and reproducible. :contentReference[oaicite:1]{index=1}
-
----
-
 ## 🛠️ How to Build & Run
 
 ### 1. Clone the repository
